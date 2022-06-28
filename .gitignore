@@ -1,5 +1,2 @@
-*.ipr
-*.iws
-*.iml
-target
-/.idea/
+*.pyc
+venv/
